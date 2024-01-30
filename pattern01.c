@@ -19,4 +19,5 @@ int main() {
 		cnt=0;
 		printf("\n");
 	}
+	printf("Even columns are not sorted.\n");
 }
